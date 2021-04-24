@@ -1,6 +1,6 @@
 <?php
 // Koneksi ke database ("" merupakan password phpmyadmin)
-$koneksi = mysqli_connect("localhost", "roort", "", "mahasiswa");
+$koneksi = mysqli_connect("localhost", "root", "", "mahasiswa");
 
 //Cek koneksi ke Database
 //Apabila Error
